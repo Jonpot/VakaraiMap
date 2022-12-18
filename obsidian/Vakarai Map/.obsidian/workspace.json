@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "ef5019e916d05349",
+    "type": "split",
+    "children": [
+      {
+        "id": "e648f9668376f27b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55765b8e1df3a24e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Map of Vakarai.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d52ba9a32fe71fc6",
+    "type": "split",
+    "children": [
+      {
+        "id": "6daa12327f48c54d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0534a11d88d237a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "849e60d27a8be292",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "990b72531867bb26",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8c6017bc3e6e34de",
+    "type": "split",
+    "children": [
+      {
+        "id": "06c8aa89f6f4dcb0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae6789603dfc5009",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Map of Vakarai.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bc46312146c90911",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Map of Vakarai.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dd2c4aa0d58bdda6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a45dcba4abf73920",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Map of Vakarai.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "55765b8e1df3a24e",
+  "lastOpenFiles": [
+    "Places/Allenore.md",
+    "Map of Vakarai.md",
+    "Home.md",
+    "Biomes/Sea of Amber.md",
+    "Biomes/Shell of Koj.md",
+    "Biomes/Eastern Vakarai Jungle.md",
+    "Biomes/Chasm Canopy.md",
+    "Biomes/Jewel Crown Forest.md",
+    "Biomes/Quarestra Savannah.md",
+    "Biomes/Promethean Forest.md"
+  ]
+}

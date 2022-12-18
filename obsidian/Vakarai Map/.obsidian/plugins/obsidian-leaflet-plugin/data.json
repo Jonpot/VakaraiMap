@@ -1,0 +1,767 @@
+{
+  "mapMarkers": [
+    {
+      "id": "vakarai ",
+      "lastAccessed": 1671389811042,
+      "markers": [
+        {
+          "id": "ID_098b3b895919",
+          "type": "default",
+          "loc": [
+            -5.7265625,
+            10.7890625
+          ],
+          "link": "Castallero",
+          "layer": "%5B%5BVakaraiEastHalfBig.png%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.8087847730600293,
+            0.4387251234475535
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5b0a885bd838",
+          "type": "default",
+          "loc": [
+            -4.708221435546875,
+            8.6953125
+          ],
+          "link": "Cozcatliani",
+          "layer": "%5B%5BVakaraiEastHalfBig.png%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0aca5ab9fbab",
+          "type": "default",
+          "loc": [
+            -5.766815185546875,
+            9.611328125
+          ],
+          "link": "Allenore",
+          "layer": "%5B%5BVakaraiEastHalfBig.png%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c8f968eb6b6b",
+          "type": "default",
+          "loc": [
+            -5.911346435546875,
+            7.654296875
+          ],
+          "link": "Gillhome",
+          "layer": "%5B%5BVakaraiEastHalfBig.png%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a819eabbc98b",
+          "type": "default",
+          "loc": [
+            -6.608612060546875,
+            7.779296875
+          ],
+          "link": "Flamesquall",
+          "layer": "%5B%5BVakaraiEastHalfBig.png%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a83b4a0a3acb",
+          "type": "default",
+          "loc": [
+            -7.229705810546875,
+            8.28515625
+          ],
+          "link": "Pueblo de la Playa",
+          "layer": "%5B%5BVakaraiEastHalfBig.png%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1bcbba2beb8a",
+          "type": "default",
+          "loc": [
+            -8.606658935546875,
+            7.84375
+          ],
+          "link": "Alma del Mar",
+          "layer": "%5B%5BVakaraiEastHalfBig.png%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_88ab0958c85a",
+          "type": "default",
+          "loc": [
+            -9.176971435546875,
+            6.642578125
+          ],
+          "link": "Isla de la Sol",
+          "layer": "%5B%5BVakaraiEastHalfBig.png%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_099ad9498888",
+          "type": "default",
+          "loc": [
+            -6.8125,
+            9.5546875
+          ],
+          "link": "Costa del Oro",
+          "layer": "%5B%5BVakaraiEastHalfBig.png%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7162518301610542,
+            0.5219212928325603
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c98a5ae999cb",
+          "type": "default",
+          "loc": [
+            -6.374237060546875,
+            10.5
+          ],
+          "link": "Costa Luna",
+          "layer": "%5B%5BVakaraiEastHalfBig.png%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_387b08cb08fb",
+          "type": "default",
+          "loc": [
+            -4.7421875,
+            10.03515625
+          ],
+          "link": "Puerto del Mar",
+          "layer": "%5B%5BVakaraiEastHalfBig.png%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ea688a093918",
+          "type": "default",
+          "loc": [
+            -3.73675537109375,
+            10.30078125
+          ],
+          "link": "Montecito",
+          "layer": "%5B%5BVakaraiEastHalfBig.png%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4b89d8c8ba2a",
+          "type": "default",
+          "loc": [
+            -1.841033935546875,
+            9.57421875
+          ],
+          "link": "San Juan",
+          "layer": "%5B%5BVakaraiEastHalfBig.png%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_09690bcb8a7b",
+          "type": "default",
+          "loc": [
+            -0.907440185546875,
+            9.109375
+          ],
+          "link": "Mariposa",
+          "layer": "%5B%5BVakaraiEastHalfBig.png%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b98bca897a1b",
+          "type": "default",
+          "loc": [
+            -1.296112060546875,
+            6.947265625
+          ],
+          "link": "Rio Dorado",
+          "layer": "%5B%5BVakaraiEastHalfBig.png%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b969d9fa6aa9",
+          "type": "default",
+          "loc": [
+            -4.92816162109375,
+            5.7890625
+          ],
+          "link": "Da Katavu",
+          "layer": "%5B%5BVakaraiEastHalfBig.png%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f99bb95aabc8",
+          "type": "default",
+          "loc": [
+            -5.7466888427734375,
+            8.5107421875
+          ],
+          "link": "Cartef Caled",
+          "layer": "%5B%5BVakaraiEastHalfBig.png%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e82a19fa7b39",
+          "type": "default",
+          "loc": [
+            -4.14691162109375,
+            9.703125
+          ],
+          "link": "Blackheath",
+          "layer": "%5B%5BVakaraiEastHalfBig.png%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d8c849986828",
+          "type": "biome",
+          "loc": [
+            -6.0103607177734375,
+            10.4384765625
+          ],
+          "link": "Eastern Vakarai Jungle",
+          "layer": "%5B%5BVakaraiEastHalfBig.png%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1af8d81aeaeb",
+          "type": "biome",
+          "loc": [
+            -6.6290283203125,
+            8.9296875
+          ],
+          "link": "Eastern Vakarai Jungle",
+          "layer": "%5B%5BVakaraiEastHalfBig.png%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_391918b93ba8",
+          "type": "biome",
+          "loc": [
+            -5.90045166015625,
+            9.92578125
+          ],
+          "link": "Glowbug Marshes",
+          "layer": "%5B%5BVakaraiEastHalfBig.png%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2bcbba89dbea",
+          "type": "biome",
+          "loc": [
+            -5.74420166015625,
+            9.46875
+          ],
+          "link": "Allenore Steppes",
+          "layer": "%5B%5BVakaraiEastHalfBig.png%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_097b0a8b9b9b",
+          "type": "biome",
+          "loc": [
+            -5.95904541015625,
+            9.109375
+          ],
+          "link": "Geyser Flats",
+          "layer": "%5B%5BVakaraiEastHalfBig.png%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_89fbd92b9a69",
+          "type": "biome",
+          "loc": [
+            -5.97857666015625,
+            8.53125
+          ],
+          "link": "Promethean Forest",
+          "layer": "%5B%5BVakaraiEastHalfBig.png%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2adbe8cb98b8",
+          "type": "default",
+          "loc": [
+            -6.708984375,
+            7.8515625
+          ],
+          "link": "Lavashock Ridge",
+          "layer": "%5B%5BVakaraiEastHalfBig.png%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_dbc91909bb28",
+          "type": "biome",
+          "loc": [
+            -5.94732666015625,
+            7.80078125
+          ],
+          "link": "Lago Palatano",
+          "layer": "%5B%5BVakaraiEastHalfBig.png%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_db9a3ab8eaf9",
+          "type": "biome",
+          "loc": [
+            -5.10748291015625,
+            8.9609375
+          ],
+          "link": "Sea of Amber",
+          "layer": "%5B%5BVakaraiEastHalfBig.png%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a8db5a1ada2b",
+          "type": "biome",
+          "loc": [
+            -6.546875,
+            8.06640625
+          ],
+          "link": "Crimson Graveyard",
+          "layer": "%5B%5BVakaraiEastHalfBig.png%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9b78b8186908",
+          "type": "biome",
+          "loc": [
+            -4.77154541015625,
+            9.609375
+          ],
+          "link": "Chasm Canopy",
+          "layer": "%5B%5BVakaraiEastHalfBig.png%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1a5a1b5a7bdb",
+          "type": "biome",
+          "loc": [
+            -4.77935791015625,
+            8.1953125
+          ],
+          "link": "Jewel Crown Forest",
+          "layer": "%5B%5BVakaraiEastHalfBig.png%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_89a8b8fa0aa9",
+          "type": "biome",
+          "loc": [
+            -4.13482666015625,
+            9.47265625
+          ],
+          "link": "Frost Emerald Mountains",
+          "layer": "%5B%5BVakaraiEastHalfBig.png%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_391b3bc81be8",
+          "type": "biome",
+          "loc": [
+            -5.34576416015625,
+            7.1875
+          ],
+          "layer": "%5B%5BVakaraiEastHalfBig.png%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ba5b0928f9aa",
+          "type": "default",
+          "loc": [
+            -5.3671875,
+            7.1171875
+          ],
+          "link": "Shell of Koj",
+          "layer": "%5B%5BVakaraiEastHalfBig.png%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7aba0b6bd88a",
+          "type": "default",
+          "loc": [
+            -5.930694580078125,
+            10.30078125
+          ],
+          "link": "Sylfaen Leste",
+          "layer": "%5B%5BVakaraiEastHalfBig.png%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2aa969ab99bb",
+          "type": "default",
+          "loc": [
+            -6.426788330078125,
+            8.13671875
+          ],
+          "link": "Talamn Tein",
+          "layer": "%5B%5BVakaraiEastHalfBig.png%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4ab939ab9b6b",
+          "type": "biome",
+          "loc": [
+            -5.00201416015625,
+            9.91015625
+          ],
+          "link": "Eastern Vakarai Jungle",
+          "layer": "%5B%5BVakaraiEastHalfBig.png%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_898a69bab9fb",
+          "type": "biome",
+          "loc": [
+            -6.63873291015625,
+            6.765625
+          ],
+          "link": "Quarestra Savannah",
+          "layer": "%5B%5BVakaraiEastHalfBig.png%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ca58cb7b4819",
+          "type": "biome",
+          "loc": [
+            -5.40826416015625,
+            6.578125
+          ],
+          "link": "Quarestra Savannah",
+          "layer": "%5B%5BVakaraiEastHalfBig.png%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_38db7b285bca",
+          "type": "biome",
+          "loc": [
+            -4.23638916015625,
+            6.39453125
+          ],
+          "link": "Quarestra Savannah",
+          "layer": "%5B%5BVakaraiEastHalfBig.png%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_78a97a59797a",
+          "type": "biome",
+          "loc": [
+            -6.09185791015625,
+            5.625
+          ],
+          "link": "Quarestra Savannah",
+          "layer": "%5B%5BVakaraiEastHalfBig.png%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3a99887b590b",
+          "type": "biome",
+          "loc": [
+            -4.07623291015625,
+            5.58203125
+          ],
+          "link": "Quarestra Savannah",
+          "layer": "%5B%5BVakaraiEastHalfBig.png%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": []
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-pin",
+    "color": "#db3d3d",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    },
+    "isImage": false,
+    "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAmRJREFUSEvllVFIU1Ecxn/XNXPgvBvRUw8bUexCkII+pIvgZiERFkkIe9DtwZeIQAa1GBhIDz0YBCLZc9FAgjZiEBe6sFFE0K5McO1lMNAg2cNuVI6J3N24I4mivC71qfN6zvf9zvmf/3eOwD4PYZ/9+b8AtwEnUAPagUeAblfinZToosvluiuKYldnZ+fber0eXF9f/6zr+gbwDHiwHcQO4HE6nen+/v5TQ0NDjlgsZjocDqFYLDI5ObmhquobwzC+AlcB40+g7QAi8ESSpNOLi4tel8v1i94wDAYHB2vZbPY18BB40SrgCPBcVdUeWZbbG41GY25uThgfHxe8Xm/TK5PJMDIysqzrehm41CogADwtFosnJEnqSKfTm1NTUwdM0xRSqRR+v598Pk8kEvm0tLRUAM63ClCAw+Vyudvv97cpitKIx+NtlkkikSAQCJDL5RgeHl5dW1srAWdbBVg17cjlcmd6e3sPWuJIJML09DQ+n6/plUwmzYmJiVK1Wj0HrLQKsO4gubCwII2Ojrp/F2uaRjgc/lYoFJaBy0ClVYAVJtXtdnelUqmTsiwjCD+bbn5+3oxGo+/r9XoVuPC3LNjlwCpNRpbl44qiHHI6rSBDpVIhGAx+LJVKVvfcAt79K8DawD1ADoVCPYlEwjoVsViMmZkZzTTNVeDKbpK8pX3p8XiOzs7OHhsbG2vr6+v7omnaB+AakN8LQAi4KYqiY2BgwJfNZldqtdpj4P5ePHZbHmHgOjT/kE3gDvBqLwGWVxzo/tGSN+zMrXm7LtqJx7ZrdgOwtKbdDnYDsPNuzu874Dtou8gZHSV6ugAAAABJRU5ErkJggg=="
+  },
+  "markerIcons": [
+    {
+      "type": "biome",
+      "iconName": "map-marked-alt",
+      "color": "#65ca49",
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    }
+  ],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": true,
+  "layerMarkers": true,
+  "previousVersion": "5.1.1",
+  "version": {
+    "major": 5,
+    "minor": 1,
+    "patch": 1
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {},
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultAttribution": "Map tiles by <a href=\"http://stamen.com\">Stamen Design</a>, under <a href=\"http://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>. Data by <a href=\"http://openstreetmap.org\">OpenStreetMap</a>, under <a href=\"http://www.openstreetmap.org/copyright\">ODbL</a>."
+}
